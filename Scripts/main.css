@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui;
+  background: #96e2e7;
+  color: black;
+}
+.title{
+  text-align: center; font-size: large;
+}
+section {
+  text-align: center;
+}
+.nav li{
+  display: inline-block;font-size: medium;padding: 10px;
+}
+img{
+  width: auto;
+}
