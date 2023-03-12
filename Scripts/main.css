@@ -1,6 +1,6 @@
 body {
   font-family: system-ui;
-  background: #96e2e7;
+  background: #ceeaec;
   color: black;
 }
 .title{
@@ -14,4 +14,24 @@ section {
 }
 img{
   width: auto;
+}
+h1{
+  background-color: black;
+  color:aliceblue;
+  display: block;
+  text-align: center;
+  border: 10px;
+  border-color: bisque;
+  border-style: groove;
+}
+nav{
+  display: block;
+  font-size: larger;
+  opacity: 0.9;
+
+}
+nav a{
+  color: black;
+  padding-right: 30px;
+  overflow-y: auto;
 }
